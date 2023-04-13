@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User are able to go to About section from Menu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c87607d7-f9bd-4d4b-bef7-9687068c95f0</testCaseGuid>
+</TestCaseEntity>
